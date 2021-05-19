@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>AllTextInput.qml</file>
+        <file>AllButton.qml</file>
+        <file>ShowNumber.qml</file>
+        <file>MonsterInformation.qml</file>
+    </qresource>
+</RCC>
